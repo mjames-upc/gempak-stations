@@ -9,7 +9,7 @@ import re
 # CONVERT AND FORMAT
 def dm2dec(degStr):
   (degree, minute, dir) = re.split(',', degStr, maxsplit=3)
-  if ( dir == "W" ) or ( dir == "S" ):
+  if re.match('[SW]', degStr): 
     sign = -1
   else:
     sign = 1
