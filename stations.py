@@ -23,13 +23,14 @@ def dm2dec(degStr):
     sign = -1
   else:
     sign = 1
-  return int(round(sign * (int(degree) + float(minute) / 60 ),2)*100)
+  return str(int(round(sign * (float(degree) + float(minute) / 60 ),2)*100))
 
 fname=sys.argv
 with open('stations.txt') as f:
   for line in f:
     if len(line) > 50 and line[0] != "!" and not line.startswith("CD") and line[2] == " ":
       stateID=line[0:2]
+      if stateID=="  ": stateID="--"
       countryID=line[81:83]
       elevation=line[54:60]
       stationName=line[3:19]
@@ -43,20 +44,16 @@ with open('stations.txt') as f:
         synopString="999999"
 
       # CONVERT DegMin to Decimal
+      #print line[39:41] + ':' + line[42:44] + ':' + line[44]
+      #print line[47:50] + ':' + line[51:53] + ':' + line[53]
       ( latDegree, latMinute, latDirection ) = ( line[39:41], line[42:44], line[44] )
-      ( lonDegree, lonMinute, lonDirection ) = ( line[47:50], line[52:53], line[53] ) 
+      ( lonDegree, lonMinute, lonDirection ) = ( line[47:50], line[51:53], line[53] ) 
 
       latDec = dm2dec(latDegree+','+latMinute+','+latDirection)
       lonDec = dm2dec(lonDegree+','+lonMinute+','+lonDirection)
 
-      # left pad longitude for right-aligned column
-      if len(str(lonDec)) < 6: 
-        lonDec = ' ' + str(lonDec)
-      if len(synopString) < 6: 
-        synopString = ' ' + synopString
-
       # PRINT GEMPAK station table
-      print stationID + '     ' + synopString + ' ' + stationName + '                 ' + stateID + ' ' + countryID + '  ' + str(latDec) + ' ' + str(lonDec) + ' ' + elevation + ' 0'
+      print stationID + '     ' + synopString.rjust(6) + ' ' + stationName + '                 ' + stateID + ' ' + countryID + ' ' + str(latDec).rjust(5) + ' ' + str(lonDec).rjust(6) + ' ' + elevation + ' 0'
 
 sys.exit(0)
 
