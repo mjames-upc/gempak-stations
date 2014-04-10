@@ -32,6 +32,7 @@ with open('stations.txt') as f:
       stateID=line[0:2]
       if stateID=="  ": stateID="--"
       countryID=line[81:83]
+      if countryID=="CO": countryID="CB"
       elevation=line[54:60]
       stationName=line[3:19]
       stationID=line[20:24]

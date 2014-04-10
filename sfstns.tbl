@@ -4778,53 +4778,53 @@ MPNU     999999 AUGUSTO VERGARA                  -- PA   782  -8027    21  0
 MPOA     999999 PUERTO OBALDIA                   -- PA   867  -7742     1  0
 MPRH     999999 RIO HATO                         -- PA   836  -8012    31  0
 MPVR     787880 EL PORVENIR                      -- PA   957  -7897     2  0
-SKAR     802110 ARMENIA/EL EDEN                  -- CO   445  -7577  1219  0
-SKAS     803720 PUERTO ASIS                      -- CO    50  -7650   254  0
-SKBC     800740 EL BANCO/LAS FLO                 -- CO   907  -7397    34  0
-SKBG     800940 BUCARAMANGO/PALO                 -- CO   713  -7318  1189  0
-SKBO     802220 BOGOTA/ELDORADO                  -- CO   470  -7412  2548  0
-SKBQ     800280 BARRANQUILLA/ERN                 -- CO  1090  -7477    10  0
-SKBS     999999 BAHIA SOLANO/JOS                 -- CO   617  -7740    24  0
-SKBU     802520 BUENAVENTURA                     -- CO   387  -7706    15  0
-SKCC     800970 CUCUTA/CAMILO DA                 -- CO   792  -7252   317  0
-SKCG     800220 CARTAGENA/RAFAEL                 -- CO  1043  -7552     1  0
-SKCL     802590 CALI/ALFONSO BON                 -- CO   353  -7637   969  0
-SKCO     803360 TUMACO/LA FLORID                 -- CO   182  -7875     6  0
-SKEJ     800910 BARRANCABERMEJA                  -- CO   702  -7378   134  0
-SKFL     803540 FLORENCIA/CAPITO                 -- CO   160  -7552   244  0
-SKGI     802190 GIRARDOT/SANTIAG                 -- CO   426  -7478   293  0
-SKGP     803000 GUAPI                            -- CO   257  -7790    54  0
-SKIB     802140 IBAGUE/PERALES                   -- CO   442  -7515   928  0
-SKIP     803700 IPIALES/SAN LUIS                 -- CO    88  -7767  2961  0
-SKLC     800840 APARTADO/LOS CED                 -- CO   782  -7670    30  0
-SKLT     803980 LETICIA/VASQUEZ                  -- CO  -420  -6993    84  0
-SKMD     801100 MEDELLIN/OLAYA H                 -- CO   622  -7558  1499  0
-SKMR     800630 MONTERIA/LOS GAR                 -- CO   882  -7583    26  0
-SKMU     803610 MITU                             -- CO   112  -7003   207  0
-SKMZ     801490 MANIZALES LNUBIA                 -- CO   503  -7547  2080  0
-SKNV     803150 NEIVA/LA MANGUIT                 -- CO   297  -7528   443  0
-SKOT     800890 OTU                              -- CO   700  -7472   630  0
-SKPC     801390 PUERTO CARRENO                   -- CO   617  -6750    55  0
-SKPE     802100 PEREIRA/MATECANA                 -- CO   482  -7573  1346  0
-SKPI     803460 PITALITO                         -- CO   187  -7603  1320  0
-SKPP     803080 POPAYAN/GUILLERM                 -- CO   247  -7658  1730  0
-SKPS     803420 PASTO/ANTONIO NA                 -- CO   140  -7728  1826  0
-SKPV     800020 PROVIDENCIA ISLA                 -- CO  1337  -8133     6  0
-SKQU     999999 MARIQUITA                        -- CO   522  -7487   467  0
-SKRG     801120 RIONEGRO/JOSE MA                 -- CO   617  -7542  2137  0
-SKRH     800350 RIOHACHA/ALMIRAN                 -- CO  1152  -7292     4  0
-SKSJ     803220 SAN JOSE GUAVIAR                 -- CO   257  -7262   155  0
-SKSM     800090 SANTA MARTA/SIMO                 -- CO  1112  -7422     4  0
-SKSP     800010 SAN ANDRES ISLAN                 -- CO  1257  -8172    -2  0
-SKTD     801750 TRINIDAD                         -- CO   542  -7165   217  0
-SKTU     800620 TURBO/GONZALO ME                 -- CO   811  -7672     5  0
-SKUC     800990 ARAUCA/SANTIAGO                  -- CO   707  -7072   128  0
-SKUI     801440 QUIBDO/EL CARANO                 -- CO   572  -7662    33  0
-SKUL     999999 TULUA/FARFAN                     -- CO   408  -7622   955  0
-SKVP     800360 VALLEDUPAR/ALFON                 -- CO  1042  -7325   138  0
-SKVV     802340 VILLAVICENCIO/VA                 -- CO   417  -7362   431  0
-SKYP     999999 YOPAL/EL ALCARAV                 -- CO   532  -7238   312  0
-MCGV     802410 GAVIOTAS                         -- CO   453  -7092   167  0
+SKAR     802110 ARMENIA/EL EDEN                  -- CB   445  -7577  1219  0
+SKAS     803720 PUERTO ASIS                      -- CB    50  -7650   254  0
+SKBC     800740 EL BANCO/LAS FLO                 -- CB   907  -7397    34  0
+SKBG     800940 BUCARAMANGO/PALO                 -- CB   713  -7318  1189  0
+SKBO     802220 BOGOTA/ELDORADO                  -- CB   470  -7412  2548  0
+SKBQ     800280 BARRANQUILLA/ERN                 -- CB  1090  -7477    10  0
+SKBS     999999 BAHIA SOLANO/JOS                 -- CB   617  -7740    24  0
+SKBU     802520 BUENAVENTURA                     -- CB   387  -7706    15  0
+SKCC     800970 CUCUTA/CAMILO DA                 -- CB   792  -7252   317  0
+SKCG     800220 CARTAGENA/RAFAEL                 -- CB  1043  -7552     1  0
+SKCL     802590 CALI/ALFONSO BON                 -- CB   353  -7637   969  0
+SKCO     803360 TUMACO/LA FLORID                 -- CB   182  -7875     6  0
+SKEJ     800910 BARRANCABERMEJA                  -- CB   702  -7378   134  0
+SKFL     803540 FLORENCIA/CAPITO                 -- CB   160  -7552   244  0
+SKGI     802190 GIRARDOT/SANTIAG                 -- CB   426  -7478   293  0
+SKGP     803000 GUAPI                            -- CB   257  -7790    54  0
+SKIB     802140 IBAGUE/PERALES                   -- CB   442  -7515   928  0
+SKIP     803700 IPIALES/SAN LUIS                 -- CB    88  -7767  2961  0
+SKLC     800840 APARTADO/LOS CED                 -- CB   782  -7670    30  0
+SKLT     803980 LETICIA/VASQUEZ                  -- CB  -420  -6993    84  0
+SKMD     801100 MEDELLIN/OLAYA H                 -- CB   622  -7558  1499  0
+SKMR     800630 MONTERIA/LOS GAR                 -- CB   882  -7583    26  0
+SKMU     803610 MITU                             -- CB   112  -7003   207  0
+SKMZ     801490 MANIZALES LNUBIA                 -- CB   503  -7547  2080  0
+SKNV     803150 NEIVA/LA MANGUIT                 -- CB   297  -7528   443  0
+SKOT     800890 OTU                              -- CB   700  -7472   630  0
+SKPC     801390 PUERTO CARRENO                   -- CB   617  -6750    55  0
+SKPE     802100 PEREIRA/MATECANA                 -- CB   482  -7573  1346  0
+SKPI     803460 PITALITO                         -- CB   187  -7603  1320  0
+SKPP     803080 POPAYAN/GUILLERM                 -- CB   247  -7658  1730  0
+SKPS     803420 PASTO/ANTONIO NA                 -- CB   140  -7728  1826  0
+SKPV     800020 PROVIDENCIA ISLA                 -- CB  1337  -8133     6  0
+SKQU     999999 MARIQUITA                        -- CB   522  -7487   467  0
+SKRG     801120 RIONEGRO/JOSE MA                 -- CB   617  -7542  2137  0
+SKRH     800350 RIOHACHA/ALMIRAN                 -- CB  1152  -7292     4  0
+SKSJ     803220 SAN JOSE GUAVIAR                 -- CB   257  -7262   155  0
+SKSM     800090 SANTA MARTA/SIMO                 -- CB  1112  -7422     4  0
+SKSP     800010 SAN ANDRES ISLAN                 -- CB  1257  -8172    -2  0
+SKTD     801750 TRINIDAD                         -- CB   542  -7165   217  0
+SKTU     800620 TURBO/GONZALO ME                 -- CB   811  -7672     5  0
+SKUC     800990 ARAUCA/SANTIAGO                  -- CB   707  -7072   128  0
+SKUI     801440 QUIBDO/EL CARANO                 -- CB   572  -7662    33  0
+SKUL     999999 TULUA/FARFAN                     -- CB   408  -7622   955  0
+SKVP     800360 VALLEDUPAR/ALFON                 -- CB  1042  -7325   138  0
+SKVV     802340 VILLAVICENCIO/VA                 -- CB   417  -7362   431  0
+SKYP     999999 YOPAL/EL ALCARAV                 -- CB   532  -7238   312  0
+MCGV     802410 GAVIOTAS                         -- CB   453  -7092   167  0
 SVAC     804270 ACARIGUA/OSWALDO                 -- VE   955  -6922   225  0
 SVBC     804190 BARCELONA/GEN JO                 -- VE  1011  -6467     7  0
 SVBI     804400 BARINAS                          -- VE   861  -7022   204  0
@@ -9339,7 +9339,7 @@ KQLP     999999 LAIKAPIA AIR BAS                 -- KE   -67   3686  1905  0
 KQAZ     999999 AGADEZ                           -- NE  1698    798   492  0
 KQKV     999999 KOURE VILLAGE                    -- NE  1333    260   249  0
 KQBF     999999 OUAGADOUGOU                      -- BF  1235   -152   306  0
-KQB7     999999 S JOSE D GUAVIA                  -- CO   257  -7262   184  0
-KQB9     999999 TRES ESQUINAS                    -- CO    75  -7522   178  0
-KQQY     999999 APIAY TMQ53                      -- CO   407  -7355   377  0
-KQYV     999999 MARANDUA                         -- CO   552  -6867    87  0
+KQB7     999999 S JOSE D GUAVIA                  -- CB   257  -7262   184  0
+KQB9     999999 TRES ESQUINAS                    -- CB    75  -7522   178  0
+KQQY     999999 APIAY TMQ53                      -- CB   407  -7355   377  0
+KQYV     999999 MARANDUA                         -- CB   552  -6867    87  0
