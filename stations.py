@@ -19,7 +19,7 @@ import re
 def dm2dec(degStr):
   # input string in the format 'degree,minute,direction' e.g '
   (degree, minute, dir) = re.split(',', degStr, maxsplit=3)
-  if re.match('[SW]', degStr):
+  if re.match('[SW]', dir):
     sign = -1
   else:
     sign = 1
