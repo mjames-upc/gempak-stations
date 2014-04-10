@@ -5211,7 +5211,7 @@ SCLL     854860 VALLENAR                         -- CL -2860  -7077   538  0
 SCMK     999999 MELINKA ARPT                     -- CL -4390  -7373    11  0
 SCNT     999999 TENIENTE GALLARD                 -- CL -5167  -7253    67  0
 SCON     858310 QUELLON                          -- CL -4312  -7362     3  0
-SCPQ     999999 MONOPULLI                        -- CH -4233  -7372     5  0
+SCPQ     999999 MONOPULLI                        -- CL -4233  -7372     5  0
 SCRA     854600 CHANARAL                         -- CL -2632  -7062    30  0
 SCRD     999999 RODELILLO                        -- CL -3307  -7155   336  0
 SCRG     856080 DE LA INDEPENDEN                 -- CL -3417  -7077   441  0
@@ -5834,10 +5834,10 @@ EKAV      61500 AVNO (DAN-AFB)                   -- DK  5507   1177     4  0
 EKBI      61040 BILLUND AIRPORT                  -- DK  5572    915    66  0
 EKCH      61800 COPENHAGEN/KASTR                 -- DK  5562   1267     5  0
 EKEB      60800 ESBJERG                          -- DK  5552    855    29  0
-EKGC     999999 GORM(OIL)                        -- DN  5558    476     0  0
+EKGC     999999 GORM(OIL)                        -- DK  5558    476     0  0
 EKGF      60220 TYRA OEST                        -- DK  5572    480    43  0
-EKHA     999999 HALFDAN(OIL)                     -- DN  5553    500     0  0
-EKHD     999999 HARALD(OIL)                      -- DN  5633    426     0  0
+EKHA     999999 HALFDAN(OIL)                     -- DK  5553    500     0  0
+EKHD     999999 HARALD(OIL)                      -- DK  5633    426     0  0
 EKHN     999999 HORNS REV B HELI                 -- DK  5560    762    50  0
 EKHO      60540 LINDTORP AIRPORT                 -- DK  5638    843    15  0
 EKHR     999999 HORNS REV B HELI                 -- DK  5552    788    50  0
@@ -5853,7 +5853,7 @@ EKSN      60340 SINDAL AIRPORT                   -- DK  5750   1022    28  0
 EKSP      61100 SKRYDSTRUP(DAN-A                 -- DK  5522    927    40  0
 EKST      61240 SYDFYNS/TASINGE                  -- DK  5502   1057     6  0
 EKSV      60620 SKIVE AIRPORT                    -- DK  5653    917    21  0
-EKTE     999999 TYRA(OIL)                        -- DN  5572    480     0  0
+EKTE     999999 TYRA(OIL)                        -- DK  5572    480     0  0
 EKTS      60240 THISTED ARPT (AU                 -- DK  5707    868     7  0
 EKVA      61000 VANDEL (DAN-AFB)                 -- DK  5572    922    74  0
 EKVD      61080 VAMDRUP (AUT/MAN                 -- DK  5542    932    45  0
@@ -7461,29 +7461,29 @@ FMCH     670020 MORONI/HAHAIA IN                 -- KM -1152   4327    29  0
 FMCN     670010 MORONI/ICONI ARP                 -- KM -1168   4322     6  0
 FMCV     670040 ANJOUAN/OUANI                    -- KM -1212   4442    12  0
 FMCZ     670050 DZAOUDZI/PAMANZI                 -- KM -1280   4527     7  0
-FMME     671070 ANTSIRABE                        -- KM -1982   4707  1532  0
-FMMH     671130 MAHANORO                         -- KM -1982   4878     5  0
-FMMI     670830 ANTANANARIVO/IVA                 -- KM -1880   4747  1276  0
-FMMO     670730 MAINTIRANO                       -- KM -1805   4402    23  0
-FMMS     670720 SAINTE-MARIE ARP                 -- KM -1707   4982     3  0
-FMMT     670950 TAMATAVE/TOAMASI                 -- KM -1812   4938     6  0
-FMMV     671170 MORONDAVA                        -- KM -2027   4432     8  0
-FMNA     670090 DIEGO-SUAREZ/ANT                 -- KM -1233   4928   105  0
-FMND     670220 ANDAPA                           -- KM -1465   4962   474  0
-FMNH     670250 ANTALAHA/ANTSIRA                 -- KM -1487   5025    88  0
-FMNL     670190 ANALALAVA                        -- KM -1462   4777    57  0
-FMNM     670270 MAJUNGA/MAHAJANG                 -- KM -1567   4635    18  0
-FMNN     670120 NOSY BE/FASCENE                  -- KM -1332   4832     9  0
-FMNQ     670370 BESALAMPY                        -- KM -1675   4447    36  0
-FMNS     670230 SAMBAVA SUD                      -- KM -1427   5017     5  0
-FMNV     670170 VOHEMAR                          -- KM -1337   5000     5  0
-FMSD     671970 FT. DAUPHIN/TOLA                 -- KM -2502   4695     9  0
-FMSF     671370 FIANARANTSOA                     -- KM -2143   4710  1109  0
-FMSG     671570 FARAFANGANA                      -- KM -2280   4782     6  0
-FMSM     671430 MANANJARY                        -- KM -2118   4837     6  0
-FMSO     671520 RANOHIRA                         -- KM -2255   4538   824  0
-FMSR     671310 MOROMBE                          -- KM -2175   4337     4  0
-FMST     671610 TULEAR/TOLIARA                   -- KM -2337   4372     8  0
+FMME     671070 ANTSIRABE                        -- MG -1982   4707  1532  0
+FMMH     671130 MAHANORO                         -- MG -1982   4878     5  0
+FMMI     670830 ANTANANARIVO/IVA                 -- MG -1880   4747  1276  0
+FMMO     670730 MAINTIRANO                       -- MG -1805   4402    23  0
+FMMS     670720 SAINTE-MARIE ARP                 -- MG -1707   4982     3  0
+FMMT     670950 TAMATAVE/TOAMASI                 -- MG -1812   4938     6  0
+FMMV     671170 MORONDAVA                        -- MG -2027   4432     8  0
+FMNA     670090 DIEGO-SUAREZ/ANT                 -- MG -1233   4928   105  0
+FMND     670220 ANDAPA                           -- MG -1465   4962   474  0
+FMNH     670250 ANTALAHA/ANTSIRA                 -- MG -1487   5025    88  0
+FMNL     670190 ANALALAVA                        -- MG -1462   4777    57  0
+FMNM     670270 MAJUNGA/MAHAJANG                 -- MG -1567   4635    18  0
+FMNN     670120 NOSY BE/FASCENE                  -- MG -1332   4832     9  0
+FMNQ     670370 BESALAMPY                        -- MG -1675   4447    36  0
+FMNS     670230 SAMBAVA SUD                      -- MG -1427   5017     5  0
+FMNV     670170 VOHEMAR                          -- MG -1337   5000     5  0
+FMSD     671970 FT. DAUPHIN/TOLA                 -- MG -2502   4695     9  0
+FMSF     671370 FIANARANTSOA                     -- MG -2143   4710  1109  0
+FMSG     671570 FARAFANGANA                      -- MG -2280   4782     6  0
+FMSM     671430 MANANJARY                        -- MG -2118   4837     6  0
+FMSO     671520 RANOHIRA                         -- MG -2255   4538   824  0
+FMSR     671310 MOROMBE                          -- MG -2175   4337     4  0
+FMST     671610 TULEAR/TOLIARA                   -- MG -2337   4372     8  0
 FMEE     619800 ST. DENIS/GILLOT                 -- FR -2087   5552    25  0
 FMEP     619840 ST. PIERRE/FONDS                 -- FR -2132   5542    53  0
 FNBG     663100 BENGUELA/MONBACA                 -- AO -1262   1340    36  0

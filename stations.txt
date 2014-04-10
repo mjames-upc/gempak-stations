@@ -5519,7 +5519,7 @@ CHILE              30-APR-13
    MELINKA ARPT     SCMK               43 54S  073 44W   11   X                8 CL
    TENIENTE GALLARD SCNT               51 40S  072 32W   67   X     T          8 CL
    QUELLON          SCON        85831  43 07S  073 37W    3   X                7 CL
-   MONOPULLI        SCPQ               42 20S  073 43W    5   X     T          7 CH
+   MONOPULLI        SCPQ               42 20S  073 43W    5   X     T          7 CL
    CHANARAL         SCRA        85460  26 19S  070 37W   30   X                7 CL
    RODELILLO        SCRD               33 04S  071 33W  336   X                8 CL
    DE LA INDEPENDEN SCRG        85608  34 10S  070 46W  441   X                7 CL
@@ -6168,10 +6168,10 @@ DENMARK            30-APR-13
    BILLUND AIRPORT  EKBI        06104  55 43N  009 09E   66   X     T          6 DK
    COPENHAGEN/KASTR EKCH        06180  55 37N  012 40E    5   X     T          6 DK
    ESBJERG          EKEB        06080  55 31N  008 33E   29   X     T          6 DK
-   GORM(OIL)        EKGC               55 35N  004 46E    0   X                7 DN
+   GORM(OIL)        EKGC               55 35N  004 46E    0   X                7 DK
    TYRA OEST        EKGF        06022  55 43N  004 48E   43   X     T          7 DK
-   HALFDAN(OIL)     EKHA               55 32N  005 00E    0   X                7 DN
-   HARALD(OIL)      EKHD               56 20N  004 16E    0   X                7 DN
+   HALFDAN(OIL)     EKHA               55 32N  005 00E    0   X                7 DK
+   HARALD(OIL)      EKHD               56 20N  004 16E    0   X                7 DK
    HORNS REV B HELI EKHN               55 36N  007 37E   50   X                7 DK
    LINDTORP AIRPORT EKHO        06054  56 23N  008 26E   15   X                7 DK
    HORNS REV B HELI EKHR               55 31N  007 53E   50   X                7 DK
@@ -6187,7 +6187,7 @@ DENMARK            30-APR-13
    SKRYDSTRUP(DAN-A EKSP        06110  55 13N  009 16E   40   X     T          6 DK
    SYDFYNS/TASINGE  EKST        06124  55 01N  010 34E    6   X                7 DK
    SKIVE AIRPORT    EKSV        06062  56 32N  009 10E   21   X     T          6 DK
-   TYRA(OIL)        EKTE               55 43N  004 48E    0   X                7 DN
+   TYRA(OIL)        EKTE               55 43N  004 48E    0   X                7 DK
    THISTED ARPT (AU EKTS        06024  57 04N  008 41E    7   X     T          6 DK
    VANDEL (DAN-AFB) EKVA        06100  55 43N  009 13E   74   X     T          6 DK
    VAMDRUP (AUT/MAN EKVD        06108  55 25N  009 19E   45   X     T          7 DK
@@ -7939,29 +7939,29 @@ COMOROS            27-DEC-01
    DZAOUDZI/PAMANZI FMCZ        67005  12 48S  045 16E    7   X     T          6 KM
 
 MADAGASCAR         22-MAR-12
-   ANTSIRABE        FMME        67107  19 49S  047 04E 1532   X     T          7 KM
-   MAHANORO         FMMH        67113  19 49S  048 47E    5   X                7 KM
-   ANTANANARIVO/IVA FMMI        67083  18 48S  047 28E 1276   X     T          6 KM
-   MAINTIRANO       FMMO        67073  18 03S  044 01E   23   X                7 KM
-   SAINTE-MARIE ARP FMMS        67072  17 04S  049 49E    3   X     T          7 KM
-   TAMATAVE/TOAMASI FMMT        67095  18 07S  049 23E    6   X     T          6 KM
-   MORONDAVA        FMMV        67117  20 16S  044 19E    8   X                7 KM
-   DIEGO-SUAREZ/ANT FMNA        67009  12 20S  049 17E  105   X     T          7 KM
-   ANDAPA           FMND        67022  14 39S  049 37E  474   X                7 KM
-   ANTALAHA/ANTSIRA FMNH        67025  14 52S  050 15E   88   X                7 KM
-   ANALALAVA        FMNL        67019  14 37S  047 46E   57   X                7 KM
-   MAJUNGA/MAHAJANG FMNM        67027  15 40S  046 21E   18   X     T          7 KM
-   NOSY BE/FASCENE  FMNN        67012  13 19S  048 19E    9   X     T          6 KM
-   BESALAMPY        FMNQ        67037  16 45S  044 28E   36   X                7 KM
-   SAMBAVA SUD      FMNS        67023  14 16S  050 10E    5   X                7 KM
-   VOHEMAR          FMNV        67017  13 22S  050 00E    5   X                7 KM
-   FT. DAUPHIN/TOLA FMSD        67197  25 01S  046 57E    9   X     T          7 KM
-   FIANARANTSOA     FMSF        67137  21 26S  047 06E 1109   X                7 KM
-   FARAFANGANA      FMSG        67157  22 48S  047 49E    6   X                7 KM
-   MANANJARY        FMSM        67143  21 11S  048 22E    6   X                7 KM
-   RANOHIRA         FMSO        67152  22 33S  045 23E  824   X                7 KM
-   MOROMBE          FMSR        67131  21 45S  043 22E    4   X                7 KM
-   TULEAR/TOLIARA   FMST        67161  23 22S  043 43E    8   X     T          7 KM
+   ANTSIRABE        FMME        67107  19 49S  047 04E 1532   X     T          7 MG
+   MAHANORO         FMMH        67113  19 49S  048 47E    5   X                7 MG
+   ANTANANARIVO/IVA FMMI        67083  18 48S  047 28E 1276   X     T          6 MG
+   MAINTIRANO       FMMO        67073  18 03S  044 01E   23   X                7 MG
+   SAINTE-MARIE ARP FMMS        67072  17 04S  049 49E    3   X     T          7 MG
+   TAMATAVE/TOAMASI FMMT        67095  18 07S  049 23E    6   X     T          6 MG
+   MORONDAVA        FMMV        67117  20 16S  044 19E    8   X                7 MG
+   DIEGO-SUAREZ/ANT FMNA        67009  12 20S  049 17E  105   X     T          7 MG
+   ANDAPA           FMND        67022  14 39S  049 37E  474   X                7 MG
+   ANTALAHA/ANTSIRA FMNH        67025  14 52S  050 15E   88   X                7 MG
+   ANALALAVA        FMNL        67019  14 37S  047 46E   57   X                7 MG
+   MAJUNGA/MAHAJANG FMNM        67027  15 40S  046 21E   18   X     T          7 MG
+   NOSY BE/FASCENE  FMNN        67012  13 19S  048 19E    9   X     T          6 MG
+   BESALAMPY        FMNQ        67037  16 45S  044 28E   36   X                7 MG
+   SAMBAVA SUD      FMNS        67023  14 16S  050 10E    5   X                7 MG
+   VOHEMAR          FMNV        67017  13 22S  050 00E    5   X                7 MG
+   FT. DAUPHIN/TOLA FMSD        67197  25 01S  046 57E    9   X     T          7 MG
+   FIANARANTSOA     FMSF        67137  21 26S  047 06E 1109   X                7 MG
+   FARAFANGANA      FMSG        67157  22 48S  047 49E    6   X                7 MG
+   MANANJARY        FMSM        67143  21 11S  048 22E    6   X                7 MG
+   RANOHIRA         FMSO        67152  22 33S  045 23E  824   X                7 MG
+   MOROMBE          FMSR        67131  21 45S  043 22E    4   X                7 MG
+   TULEAR/TOLIARA   FMST        67161  23 22S  043 43E    8   X     T          7 MG
 
 REUNION            30-APR-13
    ST. DENIS/GILLOT FMEE        61980  20 52S  055 31E   25   X     T          6 FR
