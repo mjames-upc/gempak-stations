@@ -1,10 +1,10 @@
 # GEMPAK Station Decoder
 
-This Python script downloads and decodes the [NCAR / RAL list of METAR stations](http://weather.rap.ucar.edu/surface/stations.txt) into a GEMPAK station table.  
+This Python script decodes the [NCAR / RAL list of METAR stations](http://weather.rap.ucar.edu/surface/stations.txt) into a GEMPAK station table.  
 
 ## Use
 
-    python stations.py > sfstns.tbl
+    python stations.py stations.txt > sfstns.tbl
 
 ## Result
 
